@@ -113,6 +113,11 @@ RMSE from Scikit learn: 2.9225527007101078
 
 In the tuple the first value is N, second M, and the last the time taken.
 
+<img width="1160" height="603" alt="image" src="https://github.com/user-attachments/assets/02e1df88-6378-4b3f-a965-818b4d4e2f08" />
+<img width="1173" height="603" alt="image" src="https://github.com/user-attachments/assets/cd0a6e28-d9d6-40ed-92d5-a8a04fef493e" />
+
+
+
 ## Human Activity Recognition (HAR)
 
 # Q1
